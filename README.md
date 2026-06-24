@@ -26,7 +26,7 @@ Dataset sourced from Kaggle:Swiggy Restaurant Dataset
 - Average Ratings
 - Total Restaurants
 - Average Price
-- 
+
 ## Dashboard Features
 - Interactive slicers for City and Area
 - Donut chart for Food Type Distribution
